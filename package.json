@@ -1,0 +1,27 @@
+{
+  "name": "OneList",
+  "version": "1.0.0",
+  "description": "a wishlist site with one list",
+  "main": "index.js",
+  "dependencies": {
+    "passport": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacksrf/onelist.git"
+  },
+  "keywords": [
+    "list",
+    "wishlist"
+  ],
+  "author": "trey jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacksrf/onelist/issues"
+  },
+  "homepage": "https://github.com/jacksrf/onelist"
+}
